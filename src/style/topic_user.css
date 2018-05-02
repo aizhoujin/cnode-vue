@@ -1,0 +1,33 @@
+body{
+    background: #fff;
+}
+.topic-content{
+    background: #e1e1e1;
+    padding: 10px;
+}
+.markdown-text{
+    background: #fff;
+    padding: 10px;
+    border-radius: 4px;
+}
+.putTop{
+    padding: 4px;
+    display:inline-block;
+    line-height: 15px;
+    background: #80bd01;
+    border-radius: 5px;
+    color: #fff;
+    margin-right: 8px;
+    font-size: 14px;
+}
+.topic-title p{
+    margin: 0;
+}
+.topic-title{
+    padding: 10px;
+}
+.topic-title .tt{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+}
