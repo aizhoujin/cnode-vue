@@ -18,6 +18,7 @@
           <router-link to="/">注册</router-link>
           <router-link to='/login'>登录</router-link>
         </ul>
+        <p>修改修改</p>
       </div>
     </div>
     <div class="main">
